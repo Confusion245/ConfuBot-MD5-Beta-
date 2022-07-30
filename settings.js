@@ -33,7 +33,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['56999448163'] 
-global.ownername = "ConfuMods👀"
+global.ownername = "ConfuMod"
 global.ytname = "YT: ConfuMods" 
 global.socialm = "GitHub: Confusion245" 
 global.location = "America, Santiago, Chile" 
