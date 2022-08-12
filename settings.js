@@ -50,6 +50,9 @@ global.themeemoji = "🏳️‍🌈"
 global.packname = " ‎═══ •『 🤡 』• ═══\n✿ • ConfuBot v5\n\n𝐀𝐍𝐓𝐈𝐒𝐎𝐂𝐈𝐀𝐋 𝐃𝐄𝐕𝐒? 𝐎𝐂\n⤷cutt.ly\/eZfytPj" 
 global.author = " ‎🛹•Creado por:\n⤷ ✧ConfuMods✨\n\n⛩️• YouTube: \n⤷ cutt.ly\/7ZfyAst"
 
+global.lolkeys = ['2e0da1f78d1721134b21816d', '902c3bc9d8c08b0dcf8f5373', '808693688ecc695293359089', '85faf717d0545d14074659ad']
+global.lolkeysapi = lolkeys[Math.floor(lolkeys.length * Math.random())]
+
 
 global.thum = fs.readFileSync("./Media/theme/bot.jpg") 
 global.log0 = fs.readFileSync("./Media/theme/bot.jpg") 
